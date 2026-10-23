@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="KDHT Enterprises">
+  <polygon points="80,22 128,50 128,110 80,138 32,110 32,50" fill="#107C10"/>
+  <path fill="#ffffff" d="M58 54H72V74L92 54H110L84 80L112 108H94L72 86V108H58Z"/>
+  <path d="M120 20 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" fill="#FFB900"/>
+  <text x="156" y="84" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="300" fill="#201F1E"><tspan font-weight="700" fill="#107C10">KDHT</tspan> Enterprises</text>
+  <text x="158" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="3" fill="#605E5C">HUMAN-LED · AI-AMPLIFIED</text>
+</svg>
